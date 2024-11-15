@@ -1,0 +1,116 @@
+{
+  "localeSwitch": {
+    "selectLanguageLabel": "Select Language",
+    "english": {
+      "label": "English",
+      "locale": "en"
+    },
+    "serbian": {
+      "label": "Serbian",
+      "locale": "sr"
+    }
+  },
+  "navigation": {
+    "linkOne": {
+      "title": "Services & Products",
+      "href": "/services-and-products",
+      "subMenuItems": {
+        "subMenuOne": {
+          "title": "Design",
+          "href": "/services-and-products/#designing",
+          "description": "Komplete licence designer",
+          "icon": "DraftingCompassIcon"
+        },
+        "subMenuTwo": {
+          "title": "Production",
+          "href": "/services-and-products/#production",
+          "description": "Production using quality materials and equipment",
+          "icon": "Cog"
+        },
+        "subMenuThree": {
+          "title": "Savings",
+          "href": "/services-and-products/#savings",
+          "description": "Improving performance and saving energy",
+          "icon": "Leaf"
+        },
+        "subMenuFour": {
+          "title": "Product Distribution",
+          "href": "/services-and-products/#distribution",
+          "description": "Quality product distribution",
+          "icon": "Truck"
+        }
+      },
+      "gridCols": "2"
+    },
+    "linkTwo": {
+      "title": "Solutions",
+      "href": "/solutions",
+      "subMenuItems": {
+        "subMenuOne": {
+          "title": "Cooling",
+          "href": "/solutions/#cooling",
+          "description": "Cooling solutions",
+          "icon": "Snowflake"
+        },
+        "subMenuTwo": {
+          "title": "Air conditioning",
+          "href": "/solutions/#air-conditioning",
+          "description": "Air conditioning solutions",
+          "icon": "Fan"
+        },
+        "subMenuThree": {
+          "title": "Savings",
+          "href": "/services-and-products/#savings",
+          "description": "Improving performance and saving energy",
+          "icon": "Leaf"
+        }
+      },
+      "gridCols": "2"
+    },
+    "linkThree": {
+      "title": "Why Superheat",
+      "href": "/why-superheat"
+    },
+    "linkFour": {
+      "title": "About Us",
+      "href": "/about-us",
+      "subMenuItems": {
+        "subMenuOne": {
+          "title": "Our Story",
+          "href": "/about-us/#our-story",
+          "description": "Who are we and what we stand for?",
+          "icon": "Building2"
+        }
+      }
+    },
+    "linkFive": {
+      "title": "Contact",
+      "href": "/contact"
+    }
+  },
+
+  "HomePage": {
+    "title": "Home Page",
+    "writtableStrings": {
+      "stringOne": {
+        "value": "WE REDUCE THE ELECTRICAL ENERGY CONSUMPTION OF YOUR REFRIGERATOR UP TO 35%"
+      },
+      "stringTwo": {
+        "value": "WE PROVE TO YOU SAVINGS OF UP TO 35%"
+      },
+      "stringThree": {
+        "value": "WE OPTIMIZE WORK AND EXTEND THE WORKING LIFE OF YOUR REFRIGERATION EQUIPMENT"
+      },
+      "stringFour": { "value": "WE WILL MAKE YOUR BUSINESS MORE EFFICIENT" }
+    }
+  },
+  "footer": {
+    "slogan": "Using new technologies and properly sized equipment, we are making your business more efficient.",
+    "headquarters": "Headquarters",
+    "manufacturing&warehouse": "Manifacturing & Warehouse",
+    "officialEmail": "Official",
+    "commercialService": "Commercial",
+    "technicalDepartment": "Technical",
+    "finance": "Finance"
+  }
+}
