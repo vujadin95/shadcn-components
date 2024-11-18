@@ -11,79 +11,69 @@
     }
   },
   "navigation": {
-    "linkOne": {
-      "title": "Services & Products",
-      "href": "/services-and-products",
-      "subMenuItems": {
-        "subMenuOne": {
-          "title": "Design",
-          "href": "/services-and-products/#designing",
-          "description": "Komplete licence designer",
-          "icon": "DraftingCompassIcon"
-        },
-        "subMenuTwo": {
-          "title": "Production",
-          "href": "/services-and-products/#production",
-          "description": "Production using quality materials and equipment",
-          "icon": "Cog"
-        },
-        "subMenuThree": {
-          "title": "Savings",
-          "href": "/services-and-products/#savings",
-          "description": "Improving performance and saving energy",
-          "icon": "Leaf"
-        },
-        "subMenuFour": {
-          "title": "Product Distribution",
-          "href": "/services-and-products/#distribution",
-          "description": "Quality product distribution",
-          "icon": "Truck"
-        }
+    "servicesAndProductsTitle": "Services & Products",
+    "servicesAndProducts": {
+      "design": {
+        "title": "Design",
+        "href": "/services-and-products/design",
+        "description": "Komplete licence designer",
+        "icon": "DraftingCompassIcon"
       },
-      "gridCols": "2"
-    },
-    "linkTwo": {
-      "title": "Solutions",
-      "href": "/solutions",
-      "subMenuItems": {
-        "subMenuOne": {
-          "title": "Cooling",
-          "href": "/solutions/#cooling",
-          "description": "Cooling solutions",
-          "icon": "Snowflake"
-        },
-        "subMenuTwo": {
-          "title": "Air conditioning",
-          "href": "/solutions/#air-conditioning",
-          "description": "Air conditioning solutions",
-          "icon": "Fan"
-        },
-        "subMenuThree": {
-          "title": "Savings",
-          "href": "/services-and-products/#savings",
-          "description": "Improving performance and saving energy",
-          "icon": "Leaf"
-        }
+      "production": {
+        "title": "Production",
+        "href": "/services-and-products/production",
+        "description": "Production using quality materials and equipment",
+        "icon": "Cog"
       },
-      "gridCols": "2"
+      "savings": {
+        "title": "Savings",
+        "href": "/services-and-products/savings",
+        "description": "Improving performance and saving energy",
+        "icon": "Leaf"
+      },
+      "productDistribution": {
+        "title": "Product Distribution",
+        "href": "/services-and-products/product-distribution",
+        "description": "Quality product distribution",
+        "icon": "Truck"
+      }
     },
-    "linkThree": {
+    "solutionsTitle": "Solutions",
+    "solutions": {
+      "cooling": {
+        "title": "Cooling",
+        "href": "/solutions/cooling",
+        "description": "Cooling solutions",
+        "icon": "Snowflake"
+      },
+      "airConditioning": {
+        "title": "Air conditioning",
+        "href": "/solutions/air-conditioning",
+        "description": "Air conditioning solutions",
+        "icon": "Fan"
+      },
+      "savings": {
+        "title": "Savings",
+        "href": "/solutions/savings",
+        "description": "Improving performance and saving energy",
+        "icon": "Leaf"
+      }
+    },
+    "whySuperheat": {
       "title": "Why Superheat",
       "href": "/why-superheat"
     },
-    "linkFour": {
+    "aboutUs": {
       "title": "About Us",
       "href": "/about-us",
-      "subMenuItems": {
-        "subMenuOne": {
-          "title": "Our Story",
-          "href": "/about-us/#our-story",
-          "description": "Who are we and what we stand for?",
-          "icon": "Building2"
-        }
+      "ourStory": {
+        "title": "Our Story",
+        "href": "/about-us/our-story",
+        "description": "Who are we and what we stand for?",
+        "icon": "Building2"
       }
     },
-    "linkFive": {
+    "contact": {
       "title": "Contact",
       "href": "/contact"
     }
